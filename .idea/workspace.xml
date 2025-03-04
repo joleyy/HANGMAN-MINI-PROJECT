@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d51a4c6f-ec42-4558-8e3e-c9653fd241ef" name="Changes" comment="[FIX] update a new set of words">
+    <list default="true" id="d51a4c6f-ec42-4558-8e3e-c9653fd241ef" name="Changes" comment="[BUG] while condition not working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman_jolei.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman_jolei.py" afterDir="false" />
     </list>
@@ -21,8 +21,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "joleyy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/joleyy/HANGMAN-MINI-PROJECT.git",
+    "accountId": "483a01c0-609e-49be-845f-2bcb5bd0552f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -115,11 +132,37 @@
       <option name="project" value="LOCAL" />
       <updated>1741029666289</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[FIX] update code conditions">
+      <option name="closed" value="true" />
+      <created>1741043668712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741043668712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[FIX] update code conditions">
+      <option name="closed" value="true" />
+      <created>1741044370028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741044370028</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[BUG] while condition not working">
+      <option name="closed" value="true" />
+      <created>1741045041848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741045041848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[FIX] update a new set of words" />
-    <option name="LAST_COMMIT_MESSAGE" value="[FIX] update a new set of words" />
+    <MESSAGE value="[FIX] update code conditions" />
+    <MESSAGE value="[BUG] while condition not working" />
+    <option name="LAST_COMMIT_MESSAGE" value="[BUG] while condition not working" />
   </component>
 </project>
